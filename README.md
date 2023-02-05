@@ -14,7 +14,7 @@
  
 ---
 <h2 align="center">📊 Languajes and Frameworks</h2>
-<div align = "space-around">
+<div align = "center">
 
 Programming languages
        <div>
