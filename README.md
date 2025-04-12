@@ -8,9 +8,6 @@
 ---
 📕 About Me
  - 🔭 Passionate about information technology in search of professional experiences oriented to software development, mainly in the web and design field. <3
- - 🎓 I´m a systems engineer in training 
- - 🌍 I´m from Colombia
- - 🌐 My personal Website is [JuanCarrilloWeb](https://juancarrilloweb.web.app/) Not yet available in English.
  
 ---
 <h2 align="center">📊 Languajes and Frameworks</h2>
